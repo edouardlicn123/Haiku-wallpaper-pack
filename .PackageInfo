@@ -1,0 +1,22 @@
+name  Haiku_wallpaper_pack
+version  0.5-1
+architecture   any
+summary   "A collection of photo wallpapers for HaikuOS.
+All in 4K.After installation they can 
+be found in dir below:
+/boot/system/data/artwork/wallpaper
+
+Contributors:
+edouardlicn,
+rioredxsoto,
+TheClue
+"
+packager   "edouardlicn"
+vendor   "Haiku contributors"
+copyrights   "2024-2025 Haiku contributors"
+licenses   "CC-BY 4.0"
+provides {
+
+Haiku_wallpaper_pack = 0.5-1
+
+}
