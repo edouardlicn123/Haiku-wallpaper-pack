@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Version
-VERSION=0.5-1"
+VERSION="0.5-1"
 
 # Packname and Arch
 PACKAGE_BASE="Haiku_wallpaper_pack"
